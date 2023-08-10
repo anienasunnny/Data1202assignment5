@@ -1,0 +1,519 @@
+Row ID	Order ID	Country	City	State	Postal Code	Region	Sub-Category
+1	CA-2017-152156	United States	Henderson	Kentucky	42420	South	Bookcases
+2	CA-2017-152156	United States	Henderson	Kentucky	42420	South	Chairs
+3	CA-2017-138688	United States	Los Angeles	California	90036	West	Labels
+4	US-2016-108966	United States	Fort Lauderdale	Florida	33311	South	Tables
+5	US-2016-108966	United States	Fort Lauderdale	Florida	33311	South	Storage
+6	CA-2015-115812	United States	Los Angeles	California	90032	West	Furnishings
+7	CA-2015-115812	United States	Los Angeles	California	90032	West	Art
+8	CA-2015-115812	United States	Los Angeles	California	90032	West	Phones
+9	CA-2015-115812	United States	Los Angeles	California	90032	West	Binders
+10	CA-2015-115812	United States	Los Angeles	California	90032	West	Appliances
+11	CA-2015-115812	United States	Los Angeles	California	90032	West	Tables
+12	CA-2015-115812	United States	Los Angeles	California	90032	West	Phones
+13	CA-2018-114412	United States	Concord	North Carolina	28027	South	Paper
+14	CA-2017-161389	United States	Seattle	Washington	98103	West	Binders
+15	US-2016-118983	United States	Fort Worth	Texas	76106	Central	Appliances
+16	US-2016-118983	United States	Fort Worth	Texas	76106	Central	Binders
+17	CA-2015-105893	United States	Madison	Wisconsin	53711	Central	Storage
+18	CA-2015-167164	United States	West Jordan	Utah	84084	West	Storage
+19	CA-2015-143336	United States	San Francisco	California	94109	West	Art
+20	CA-2015-143336	United States	San Francisco	California	94109	West	Phones
+21	CA-2015-143336	United States	San Francisco	California	94109	West	Binders
+22	CA-2017-137330	United States	Fremont	Nebraska	68025	Central	Art
+23	CA-2017-137330	United States	Fremont	Nebraska	68025	Central	Appliances
+24	US-2018-156909	United States	Philadelphia	Pennsylvania	19140	East	Chairs
+25	CA-2016-106320	United States	Orem	Utah	84057	West	Tables
+26	CA-2017-121755	United States	Los Angeles	California	90049	West	Binders
+27	CA-2017-121755	United States	Los Angeles	California	90049	West	Accessories
+28	US-2016-150630	United States	Philadelphia	Pennsylvania	19140	East	Bookcases
+29	US-2016-150630	United States	Philadelphia	Pennsylvania	19140	East	Binders
+30	US-2016-150630	United States	Philadelphia	Pennsylvania	19140	East	Furnishings
+31	US-2016-150630	United States	Philadelphia	Pennsylvania	19140	East	Envelopes
+32	US-2016-150630	United States	Philadelphia	Pennsylvania	19140	East	Art
+33	US-2016-150630	United States	Philadelphia	Pennsylvania	19140	East	Binders
+34	US-2016-150630	United States	Philadelphia	Pennsylvania	19140	East	Art
+35	CA-2018-107727	United States	Houston	Texas	77095	Central	Paper
+36	CA-2017-117590	United States	Richardson	Texas	75080	Central	Phones
+37	CA-2017-117590	United States	Richardson	Texas	75080	Central	Furnishings
+38	CA-2016-117415	United States	Houston	Texas	77041	Central	Envelopes
+39	CA-2016-117415	United States	Houston	Texas	77041	Central	Bookcases
+40	CA-2016-117415	United States	Houston	Texas	77041	Central	Chairs
+41	CA-2016-117415	United States	Houston	Texas	77041	Central	Phones
+42	CA-2018-120999	United States	Naperville	Illinois	60540	Central	Phones
+43	CA-2017-101343	United States	Los Angeles	California	90049	West	Storage
+44	CA-2018-139619	United States	Melbourne	Florida	32935	South	Storage
+45	CA-2017-118255	United States	Eagan	Minnesota	55122	Central	Accessories
+46	CA-2017-118255	United States	Eagan	Minnesota	55122	Central	Binders
+47	CA-2015-146703	United States	Westland	Michigan	48185	Central	Storage
+48	CA-2017-169194	United States	Dover	Delaware	19901	East	Accessories
+49	CA-2017-169194	United States	Dover	Delaware	19901	East	Phones
+50	CA-2016-115742	United States	New Albany	Indiana	47150	Central	Binders
+51	CA-2016-115742	United States	New Albany	Indiana	47150	Central	Labels
+52	CA-2016-115742	United States	New Albany	Indiana	47150	Central	Furnishings
+53	CA-2016-115742	United States	New Albany	Indiana	47150	Central	Chairs
+54	CA-2017-105816	United States	New York City	New York	10024	East	Fasteners
+55	CA-2017-105816	United States	New York City	New York	10024	East	Phones
+56	CA-2017-111682	United States	Troy	New York	12180	East	Storage
+57	CA-2017-111682	United States	Troy	New York	12180	East	Paper
+58	CA-2017-111682	United States	Troy	New York	12180	East	Chairs
+59	CA-2017-111682	United States	Troy	New York	12180	East	Paper
+60	CA-2017-111682	United States	Troy	New York	12180	East	Accessories
+61	CA-2017-111682	United States	Troy	New York	12180	East	Binders
+62	CA-2017-111682	United States	Troy	New York	12180	East	Art
+63	CA-2016-135545	United States	Los Angeles	California	90004	West	Accessories
+64	CA-2016-135545	United States	Los Angeles	California	90004	West	Binders
+65	CA-2016-135545	United States	Los Angeles	California	90004	West	Paper
+66	CA-2016-135545	United States	Los Angeles	California	90004	West	Furnishings
+67	US-2016-164175	United States	Chicago	Illinois	60610	Central	Chairs
+68	CA-2015-106376	United States	Gilbert	Arizona	85234	West	Art
+69	CA-2015-106376	United States	Gilbert	Arizona	85234	West	Phones
+70	CA-2017-119823	United States	Springfield	Virginia	22153	South	Paper
+71	CA-2017-106075	United States	New York City	New York	10009	East	Binders
+72	CA-2018-114440	United States	Jackson	Michigan	49201	Central	Paper
+73	US-2016-134026	United States	Memphis	Tennessee	38109	South	Chairs
+74	US-2016-134026	United States	Memphis	Tennessee	38109	South	Furnishings
+75	US-2016-134026	United States	Memphis	Tennessee	38109	South	Storage
+76	US-2018-118038	United States	Houston	Texas	77041	Central	Binders
+77	US-2018-118038	United States	Houston	Texas	77041	Central	Furnishings
+78	US-2018-118038	United States	Houston	Texas	77041	Central	Storage
+79	US-2015-147606	United States	Houston	Texas	77070	Central	Furnishings
+80	CA-2017-127208	United States	Decatur	Alabama	35601	South	Appliances
+81	CA-2017-127208	United States	Decatur	Alabama	35601	South	Binders
+82	CA-2015-139451	United States	San Francisco	California	94122	West	Art
+83	CA-2015-139451	United States	San Francisco	California	94122	West	Storage
+84	CA-2016-149734	United States	Durham	North Carolina	27707	South	Envelopes
+85	US-2018-119662	United States	Chicago	Illinois	60623	Central	Storage
+86	CA-2018-140088	United States	Columbia	South Carolina	29203	South	Chairs
+87	CA-2018-155558	United States	Rochester	Minnesota	55901	Central	Accessories
+88	CA-2018-155558	United States	Rochester	Minnesota	55901	Central	Labels
+89	CA-2017-159695	United States	Houston	Texas	77095	Central	Storage
+90	CA-2017-109806	United States	Los Angeles	California	90036	West	Art
+91	CA-2017-109806	United States	Los Angeles	California	90036	West	Phones
+92	CA-2017-109806	United States	Los Angeles	California	90036	West	Paper
+93	CA-2016-149587	United States	Minneapolis	Minnesota	55407	Central	Paper
+94	CA-2016-149587	United States	Minneapolis	Minnesota	55407	Central	Furnishings
+95	CA-2016-149587	United States	Minneapolis	Minnesota	55407	Central	Binders
+96	US-2018-109484	United States	Portland	Oregon	97206	West	Binders
+97	CA-2018-161018	United States	New York City	New York	10009	East	Furnishings
+98	CA-2018-157833	United States	San Francisco	California	94122	West	Binders
+99	CA-2017-149223	United States	Saint Paul	Minnesota	55106	Central	Appliances
+100	CA-2017-158568	United States	Chicago	Illinois	60610	Central	Paper
+101	CA-2017-158568	United States	Chicago	Illinois	60610	Central	Accessories
+102	CA-2017-158568	United States	Chicago	Illinois	60610	Central	Binders
+103	CA-2017-129903	United States	Rochester	Minnesota	55901	Central	Paper
+104	US-2016-156867	United States	Aurora	Colorado	80013	West	Accessories
+105	US-2016-156867	United States	Aurora	Colorado	80013	West	Furnishings
+106	US-2016-156867	United States	Aurora	Colorado	80013	West	Binders
+107	CA-2018-119004	United States	Charlotte	North Carolina	28205	South	Accessories
+108	CA-2018-119004	United States	Charlotte	North Carolina	28205	South	Phones
+109	CA-2018-119004	United States	Charlotte	North Carolina	28205	South	Art
+110	CA-2016-129476	United States	Orland Park	Illinois	60462	Central	Accessories
+111	CA-2018-146780	United States	New York City	New York	10035	East	Furnishings
+112	CA-2017-128867	United States	Urbandale	Iowa	50322	Central	Art
+113	CA-2017-128867	United States	Urbandale	Iowa	50322	Central	Binders
+114	CA-2015-115259	United States	Columbus	Ohio	43229	East	Fasteners
+115	CA-2015-115259	United States	Columbus	Ohio	43229	East	Envelopes
+116	CA-2015-115259	United States	Columbus	Ohio	43229	East	Paper
+117	CA-2015-115259	United States	Columbus	Ohio	43229	East	Envelopes
+118	CA-2016-110457	United States	Seattle	Washington	98103	West	Tables
+119	US-2016-136476	United States	Bristol	Tennessee	37620	South	Binders
+120	CA-2017-103730	United States	Wilmington	Delaware	19805	East	Furnishings
+121	CA-2017-103730	United States	Wilmington	Delaware	19805	East	Binders
+122	CA-2017-103730	United States	Wilmington	Delaware	19805	East	Storage
+123	CA-2017-103730	United States	Wilmington	Delaware	19805	East	Envelopes
+124	CA-2017-103730	United States	Wilmington	Delaware	19805	East	Phones
+125	US-2015-152030	United States	Houston	Texas	77041	Central	Chairs
+126	US-2015-134614	United States	Bloomington	Illinois	61701	Central	Tables
+127	US-2018-107272	United States	Phoenix	Arizona	85023	West	Binders
+128	US-2018-107272	United States	Phoenix	Arizona	85023	West	Storage
+129	US-2017-125969	United States	Los Angeles	California	90004	West	Chairs
+130	US-2017-125969	United States	Los Angeles	California	90004	West	Furnishings
+131	US-2018-164147	United States	Columbus	Ohio	43229	East	Phones
+132	US-2018-164147	United States	Columbus	Ohio	43229	East	Paper
+133	US-2018-164147	United States	Columbus	Ohio	43229	East	Fasteners
+134	CA-2017-145583	United States	Roseville	California	95661	West	Paper
+135	CA-2017-145583	United States	Roseville	California	95661	West	Paper
+136	CA-2017-145583	United States	Roseville	California	95661	West	Art
+137	CA-2017-145583	United States	Roseville	California	95661	West	Fasteners
+138	CA-2017-145583	United States	Roseville	California	95661	West	Binders
+139	CA-2017-145583	United States	Roseville	California	95661	West	Supplies
+140	CA-2017-145583	United States	Roseville	California	95661	West	Furnishings
+141	CA-2017-110366	United States	Philadelphia	Pennsylvania	19140	East	Furnishings
+142	CA-2018-106180	United States	San Francisco	California	94122	West	Art
+143	CA-2018-106180	United States	San Francisco	California	94122	West	Envelopes
+144	CA-2018-106180	United States	San Francisco	California	94122	West	Paper
+145	CA-2018-155376	United States	Independence	Missouri	64055	Central	Appliances
+146	CA-2016-110744	United States	Pasadena	California	91104	West	Storage
+147	CA-2015-110072	United States	Newark	Ohio	43055	East	Furnishings
+148	CA-2017-114489	United States	Franklin	Wisconsin	53132	Central	Phones
+149	CA-2017-114489	United States	Franklin	Wisconsin	53132	Central	Phones
+150	CA-2017-114489	United States	Franklin	Wisconsin	53132	Central	Chairs
+151	CA-2017-114489	United States	Franklin	Wisconsin	53132	Central	Binders
+152	CA-2017-158834	United States	Scottsdale	Arizona	85254	West	Appliances
+153	CA-2017-158834	United States	Scottsdale	Arizona	85254	West	Phones
+154	CA-2016-124919	United States	San Jose	California	95123	West	Paper
+155	CA-2016-124919	United States	San Jose	California	95123	West	Paper
+156	CA-2016-124919	United States	San Jose	California	95123	West	Storage
+157	CA-2016-118948	United States	Seattle	Washington	98105	West	Art
+158	CA-2015-104269	United States	Seattle	Washington	98115	West	Chairs
+159	CA-2017-114104	United States	Edmond	Oklahoma	73034	Central	Labels
+160	CA-2017-114104	United States	Edmond	Oklahoma	73034	Central	Phones
+161	CA-2017-162733	United States	Los Angeles	California	90045	West	Paper
+162	CA-2016-119697	United States	Philadelphia	Pennsylvania	19134	East	Accessories
+163	CA-2017-154508	United States	Carlsbad	New Mexico	88220	West	Envelopes
+164	CA-2017-113817	United States	Seattle	Washington	98115	West	Binders
+165	CA-2015-139892	United States	San Antonio	Texas	78207	Central	Art
+166	CA-2015-139892	United States	San Antonio	Texas	78207	Central	Machines
+167	CA-2015-139892	United States	San Antonio	Texas	78207	Central	Storage
+168	CA-2015-139892	United States	San Antonio	Texas	78207	Central	Chairs
+169	CA-2015-139892	United States	San Antonio	Texas	78207	Central	Art
+170	CA-2015-139892	United States	San Antonio	Texas	78207	Central	Appliances
+171	CA-2015-139892	United States	San Antonio	Texas	78207	Central	Phones
+172	CA-2015-118962	United States	Los Angeles	California	90004	West	Paper
+173	CA-2015-118962	United States	Los Angeles	California	90004	West	Paper
+174	CA-2015-118962	United States	Los Angeles	California	90004	West	Chairs
+175	US-2015-100853	United States	Chicago	Illinois	60623	Central	Appliances
+176	US-2015-100853	United States	Chicago	Illinois	60623	Central	Labels
+177	US-2018-152366	United States	Houston	Texas	77036	Central	Appliances
+178	US-2016-101511	United States	Newark	Ohio	43055	East	Chairs
+179	US-2016-101511	United States	Newark	Ohio	43055	East	Supplies
+180	CA-2016-137225	United States	New York City	New York	10009	East	Art
+181	CA-2015-166191	United States	Decatur	Illinois	62521	Central	Storage
+182	CA-2015-166191	United States	Decatur	Illinois	62521	Central	Accessories
+183	CA-2015-158274	United States	Monroe	Louisiana	71203	South	Phones
+184	CA-2015-158274	United States	Monroe	Louisiana	71203	South	Phones
+185	CA-2015-158274	United States	Monroe	Louisiana	71203	South	Accessories
+186	CA-2017-105018	United States	Fairfield	Connecticut	6824	East	Binders
+187	CA-2015-123260	United States	Los Angeles	California	90032	West	Accessories
+188	CA-2017-157000	United States	Grand Prairie	Texas	75051	Central	Storage
+189	CA-2017-157000	United States	Grand Prairie	Texas	75051	Central	Paper
+190	CA-2016-102281	United States	New York City	New York	10035	East	Bookcases
+191	CA-2016-102281	United States	New York City	New York	10035	East	Phones
+192	CA-2016-102281	United States	New York City	New York	10035	East	Paper
+193	CA-2016-102281	United States	New York City	New York	10035	East	Bookcases
+194	CA-2016-102281	United States	New York City	New York	10035	East	Art
+195	CA-2016-131457	United States	Redlands	California	92374	West	Envelopes
+196	CA-2015-140004	United States	Hamilton	Ohio	45011	East	Art
+197	CA-2015-140004	United States	Hamilton	Ohio	45011	East	Art
+198	CA-2018-107720	United States	Westfield	New Jersey	7090	East	Storage
+199	US-2018-124303	United States	Philadelphia	Pennsylvania	19120	East	Binders
+200	US-2018-124303	United States	Philadelphia	Pennsylvania	19120	East	Paper
+201	CA-2018-105074	United States	Akron	Ohio	44312	East	Paper
+202	CA-2015-133690	United States	Denver	Colorado	80219	West	Tables
+203	CA-2015-133690	United States	Denver	Colorado	80219	West	Appliances
+204	US-2018-116701	United States	Dallas	Texas	75220	Central	Appliances
+205	CA-2018-126382	United States	Franklin	Tennessee	37064	South	Furnishings
+206	CA-2018-108329	United States	Whittier	California	90604	West	Phones
+207	CA-2018-135860	United States	Saginaw	Michigan	48601	Central	Storage
+208	CA-2018-135860	United States	Saginaw	Michigan	48601	Central	Phones
+209	CA-2018-135860	United States	Saginaw	Michigan	48601	Central	Binders
+210	CA-2018-135860	United States	Saginaw	Michigan	48601	Central	Fasteners
+211	CA-2018-135860	United States	Saginaw	Michigan	48601	Central	Storage
+212	CA-2016-101007	United States	Dallas	Texas	75220	Central	Accessories
+213	CA-2016-146262	United States	Medina	Ohio	44256	East	Labels
+214	CA-2016-146262	United States	Medina	Ohio	44256	East	Bookcases
+215	CA-2016-146262	United States	Medina	Ohio	44256	East	Phones
+216	CA-2016-146262	United States	Medina	Ohio	44256	East	Machines
+217	CA-2016-146262	United States	Medina	Ohio	44256	East	Accessories
+218	CA-2017-130162	United States	Los Angeles	California	90032	West	Storage
+219	CA-2017-130162	United States	Los Angeles	California	90032	West	Phones
+220	CA-2016-169397	United States	Dublin	Ohio	43017	East	Fasteners
+221	CA-2016-169397	United States	Dublin	Ohio	43017	East	Paper
+222	CA-2016-169397	United States	Dublin	Ohio	43017	East	Binders
+223	CA-2016-169397	United States	Dublin	Ohio	43017	East	Furnishings
+224	CA-2016-169397	United States	Dublin	Ohio	43017	East	Machines
+225	CA-2016-169397	United States	Dublin	Ohio	43017	East	Art
+226	CA-2016-163055	United States	Detroit	Michigan	48227	Central	Art
+227	CA-2016-163055	United States	Detroit	Michigan	48227	Central	Tables
+228	CA-2016-163055	United States	Detroit	Michigan	48227	Central	Storage
+229	US-2016-145436	United States	Columbia	Tennessee	38401	South	Chairs
+230	US-2016-145436	United States	Columbia	Tennessee	38401	South	Chairs
+231	US-2015-156216	United States	Charlotte	North Carolina	28205	South	Binders
+232	US-2018-100930	United States	Tampa	Florida	33614	South	Tables
+233	US-2018-100930	United States	Tampa	Florida	33614	South	Tables
+234	US-2018-100930	United States	Tampa	Florida	33614	South	Binders
+235	US-2018-100930	United States	Tampa	Florida	33614	South	Furnishings
+236	US-2018-100930	United States	Tampa	Florida	33614	South	Accessories
+237	CA-2018-160514	United States	Santa Clara	California	95051	West	Paper
+238	CA-2017-157749	United States	Chicago	Illinois	60610	Central	Paper
+239	CA-2017-157749	United States	Chicago	Illinois	60610	Central	Furnishings
+240	CA-2017-157749	United States	Chicago	Illinois	60610	Central	Furnishings
+241	CA-2017-157749	United States	Chicago	Illinois	60610	Central	Phones
+242	CA-2017-157749	United States	Chicago	Illinois	60610	Central	Tables
+243	CA-2017-157749	United States	Chicago	Illinois	60610	Central	Furnishings
+244	CA-2017-157749	United States	Chicago	Illinois	60610	Central	Art
+245	CA-2015-131926	United States	Lakeville	Minnesota	55044	Central	Chairs
+246	CA-2015-131926	United States	Lakeville	Minnesota	55044	Central	Storage
+247	CA-2015-131926	United States	Lakeville	Minnesota	55044	Central	Paper
+248	CA-2015-131926	United States	Lakeville	Minnesota	55044	Central	Appliances
+249	CA-2015-131926	United States	Lakeville	Minnesota	55044	Central	Paper
+250	CA-2017-154739	United States	San Francisco	California	94109	West	Chairs
+251	CA-2017-145625	United States	San Diego	California	92037	West	Paper
+252	CA-2017-145625	United States	San Diego	California	92037	West	Accessories
+253	CA-2017-146941	United States	New York City	New York	10024	East	Storage
+254	CA-2017-146941	United States	New York City	New York	10024	East	Envelopes
+255	US-2016-159982	United States	Chicago	Illinois	60623	Central	Furnishings
+256	US-2016-159982	United States	Chicago	Illinois	60623	Central	Storage
+257	US-2016-159982	United States	Chicago	Illinois	60623	Central	Storage
+258	US-2016-159982	United States	Chicago	Illinois	60623	Central	Phones
+259	CA-2018-163139	United States	New York City	New York	10009	East	Accessories
+260	CA-2018-163139	United States	New York City	New York	10009	East	Storage
+261	CA-2018-163139	United States	New York City	New York	10009	East	Binders
+262	US-2018-155299	United States	Pasadena	Texas	77506	Central	Appliances
+263	US-2015-106992	United States	Houston	Texas	77036	Central	Machines
+264	US-2015-106992	United States	Houston	Texas	77036	Central	Machines
+265	CA-2017-125318	United States	Chicago	Illinois	60610	Central	Phones
+266	CA-2016-155040	United States	Brentwood	California	94513	West	Accessories
+267	CA-2018-136826	United States	Chapel Hill	North Carolina	27514	South	Art
+268	CA-2017-111010	United States	Morristown	New Jersey	7960	East	Fasteners
+269	US-2018-145366	United States	Cincinnati	Ohio	45231	East	Storage
+270	US-2018-145366	United States	Cincinnati	Ohio	45231	East	Envelopes
+271	CA-2018-163979	United States	San Francisco	California	94110	West	Storage
+272	CA-2016-155334	United States	San Francisco	California	94109	West	Accessories
+273	CA-2016-155334	United States	San Francisco	California	94109	West	Furnishings
+274	CA-2016-155334	United States	San Francisco	California	94109	West	Binders
+275	CA-2018-118136	United States	Inglewood	California	90301	West	Paper
+276	CA-2018-118136	United States	Inglewood	California	90301	West	Art
+277	CA-2018-132976	United States	Philadelphia	Pennsylvania	19140	East	Paper
+278	CA-2018-132976	United States	Philadelphia	Pennsylvania	19140	East	Paper
+279	CA-2018-132976	United States	Philadelphia	Pennsylvania	19140	East	Storage
+280	CA-2018-132976	United States	Philadelphia	Pennsylvania	19140	East	Labels
+281	US-2016-161991	United States	Houston	Texas	77070	Central	Binders
+282	US-2016-161991	United States	Houston	Texas	77070	Central	Phones
+283	CA-2016-130890	United States	Los Angeles	California	90004	West	Tables
+284	CA-2016-130883	United States	Portland	Oregon	97206	West	Paper
+285	CA-2016-130883	United States	Portland	Oregon	97206	West	Accessories
+286	CA-2016-130883	United States	Portland	Oregon	97206	West	Paper
+287	CA-2017-112697	United States	Tamarac	Florida	33319	South	Binders
+288	CA-2017-112697	United States	Tamarac	Florida	33319	South	Appliances
+289	CA-2017-112697	United States	Tamarac	Florida	33319	South	Supplies
+290	CA-2017-110772	United States	Columbus	Ohio	43229	East	Fasteners
+291	CA-2017-110772	United States	Columbus	Ohio	43229	East	Labels
+292	CA-2017-110772	United States	Columbus	Ohio	43229	East	Accessories
+293	CA-2017-110772	United States	Columbus	Ohio	43229	East	Bookcases
+294	CA-2015-111451	United States	Colorado Springs	Colorado	80906	West	Furnishings
+295	CA-2015-111451	United States	Colorado Springs	Colorado	80906	West	Chairs
+296	CA-2015-111451	United States	Colorado Springs	Colorado	80906	West	Furnishings
+297	CA-2015-111451	United States	Colorado Springs	Colorado	80906	West	Binders
+298	CA-2015-111451	United States	Colorado Springs	Colorado	80906	West	Fasteners
+299	CA-2017-142545	United States	Belleville	New Jersey	7109	East	Paper
+300	CA-2017-142545	United States	Belleville	New Jersey	7109	East	Storage
+301	CA-2017-142545	United States	Belleville	New Jersey	7109	East	Paper
+302	CA-2017-142545	United States	Belleville	New Jersey	7109	East	Furnishings
+303	CA-2017-142545	United States	Belleville	New Jersey	7109	East	Binders
+304	US-2018-152380	United States	Chicago	Illinois	60623	Central	Tables
+305	CA-2016-144253	United States	New York City	New York	10024	East	Furnishings
+306	CA-2015-130960	United States	Taylor	Michigan	48180	Central	Art
+307	CA-2015-111003	United States	Lakewood	New Jersey	8701	East	Binders
+308	CA-2015-111003	United States	Lakewood	New Jersey	8701	East	Art
+309	CA-2018-126774	United States	Arlington	Virginia	22204	South	Art
+310	CA-2017-142902	United States	Arvada	Colorado	80004	West	Furnishings
+311	CA-2017-142902	United States	Arvada	Colorado	80004	West	Chairs
+312	CA-2017-142902	United States	Arvada	Colorado	80004	West	Furnishings
+313	CA-2017-142902	United States	Arvada	Colorado	80004	West	Labels
+314	CA-2015-120887	United States	Hackensack	New Jersey	7601	East	Furnishings
+315	CA-2015-167850	United States	Saint Petersburg	Florida	33710	South	Phones
+316	CA-2015-167850	United States	Saint Petersburg	Florida	33710	South	Paper
+317	CA-2015-164259	United States	Philadelphia	Pennsylvania	19143	East	Art
+318	CA-2015-164973	United States	New York City	New York	10024	East	Chairs
+319	CA-2015-164973	United States	New York City	New York	10024	East	Machines
+320	CA-2015-164973	United States	New York City	New York	10024	East	Phones
+321	CA-2015-164973	United States	New York City	New York	10024	East	Accessories
+322	CA-2015-164973	United States	New York City	New York	10024	East	Storage
+323	CA-2015-156601	United States	Long Beach	California	90805	West	Fasteners
+324	CA-2017-162138	United States	Hesperia	California	92345	West	Binders
+325	CA-2017-162138	United States	Hesperia	California	92345	West	Accessories
+326	CA-2018-153339	United States	Murfreesboro	Tennessee	37130	South	Furnishings
+327	US-2017-141544	United States	Philadelphia	Pennsylvania	19143	East	Phones
+328	US-2017-141544	United States	Philadelphia	Pennsylvania	19143	East	Storage
+329	US-2017-141544	United States	Philadelphia	Pennsylvania	19143	East	Chairs
+330	US-2017-141544	United States	Philadelphia	Pennsylvania	19143	East	Labels
+331	US-2017-141544	United States	Philadelphia	Pennsylvania	19143	East	Binders
+332	US-2017-150147	United States	Philadelphia	Pennsylvania	19134	East	Phones
+333	US-2017-150147	United States	Philadelphia	Pennsylvania	19134	East	Binders
+334	US-2017-150147	United States	Philadelphia	Pennsylvania	19134	East	Binders
+335	CA-2016-137946	United States	Los Angeles	California	90045	West	Binders
+336	CA-2016-137946	United States	Los Angeles	California	90045	West	Copiers
+337	CA-2016-137946	United States	Los Angeles	California	90045	West	Binders
+338	CA-2015-129924	United States	San Francisco	California	94122	West	Binders
+339	CA-2015-129924	United States	San Francisco	California	94122	West	Tables
+340	CA-2016-128167	United States	Layton	Utah	84041	West	Fasteners
+341	CA-2015-122336	United States	Philadelphia	Pennsylvania	19140	East	Art
+342	CA-2015-122336	United States	Philadelphia	Pennsylvania	19140	East	Binders
+343	CA-2015-122336	United States	Philadelphia	Pennsylvania	19140	East	Fasteners
+344	CA-2015-122336	United States	Philadelphia	Pennsylvania	19140	East	Phones
+345	US-2016-120712	United States	Austin	Texas	78745	Central	Storage
+346	CA-2018-169901	United States	San Francisco	California	94122	West	Phones
+347	CA-2018-134306	United States	Lowell	Massachusetts	1852	East	Art
+348	CA-2018-134306	United States	Lowell	Massachusetts	1852	East	Paper
+349	CA-2018-134306	United States	Lowell	Massachusetts	1852	East	Art
+350	CA-2017-129714	United States	New York City	New York	10009	East	Accessories
+351	CA-2017-129714	United States	New York City	New York	10009	East	Paper
+352	CA-2017-129714	United States	New York City	New York	10009	East	Binders
+353	CA-2017-129714	United States	New York City	New York	10009	East	Paper
+354	CA-2017-129714	United States	New York City	New York	10009	East	Binders
+355	CA-2017-138520	United States	New York City	New York	10035	East	Bookcases
+356	CA-2017-138520	United States	New York City	New York	10035	East	Envelopes
+357	CA-2017-138520	United States	New York City	New York	10035	East	Art
+358	CA-2017-138520	United States	New York City	New York	10035	East	Paper
+359	CA-2017-130001	United States	Charlotte	North Carolina	28205	South	Paper
+360	CA-2018-155698	United States	Columbus	Georgia	31907	South	Appliances
+361	CA-2018-155698	United States	Columbus	Georgia	31907	South	Labels
+362	CA-2018-144904	United States	New York City	New York	10009	East	Labels
+363	CA-2018-144904	United States	New York City	New York	10009	East	Chairs
+364	CA-2018-144904	United States	New York City	New York	10009	East	Art
+365	CA-2018-144904	United States	New York City	New York	10009	East	Furnishings
+366	CA-2015-123344	United States	San Francisco	California	94109	West	Storage
+367	CA-2017-155516	United States	Manchester	Connecticut	6040	East	Binders
+368	CA-2017-155516	United States	Manchester	Connecticut	6040	East	Supplies
+369	CA-2017-155516	United States	Manchester	Connecticut	6040	East	Storage
+370	CA-2017-155516	United States	Manchester	Connecticut	6040	East	Bookcases
+371	CA-2018-104745	United States	Harlingen	Texas	78550	Central	Paper
+372	CA-2018-104745	United States	Harlingen	Texas	78550	Central	Storage
+373	US-2015-119137	United States	Tucson	Arizona	85705	West	Binders
+374	US-2015-119137	United States	Tucson	Arizona	85705	West	Accessories
+375	US-2015-119137	United States	Tucson	Arizona	85705	West	Art
+376	US-2015-119137	United States	Tucson	Arizona	85705	West	Accessories
+377	US-2017-134656	United States	Quincy	Illinois	62301	Central	Paper
+378	US-2018-134481	United States	Franklin	Massachusetts	2038	East	Tables
+379	CA-2016-130792	United States	Houston	Texas	77095	Central	Appliances
+380	CA-2016-130792	United States	Houston	Texas	77095	Central	Storage
+381	CA-2016-130792	United States	Houston	Texas	77095	Central	Binders
+382	CA-2017-134775	United States	San Francisco	California	94109	West	Paper
+383	CA-2017-134775	United States	San Francisco	California	94109	West	Binders
+384	CA-2016-125395	United States	Taylor	Michigan	48180	Central	Accessories
+385	US-2016-168935	United States	Pembroke Pines	Florida	33024	South	Tables
+386	US-2016-168935	United States	Pembroke Pines	Florida	33024	South	Accessories
+387	CA-2016-122756	United States	Philadelphia	Pennsylvania	19140	East	Machines
+388	CA-2016-122756	United States	Philadelphia	Pennsylvania	19140	East	Furnishings
+389	CA-2015-115973	United States	Cincinnati	Ohio	45231	East	Art
+390	CA-2018-101798	United States	New York City	New York	10009	East	Binders
+391	CA-2018-101798	United States	New York City	New York	10009	East	Accessories
+392	US-2015-135972	United States	Des Moines	Washington	98198	West	Phones
+393	US-2015-135972	United States	Des Moines	Washington	98198	West	Copiers
+394	US-2015-134971	United States	Peoria	Illinois	61604	Central	Binders
+395	CA-2018-102946	United States	Las Vegas	Nevada	89115	West	Binders
+396	CA-2018-165603	United States	Warwick	Rhode Island	2886	East	Storage
+397	CA-2018-165603	United States	Warwick	Rhode Island	2886	East	Paper
+398	CA-2016-122259	United States	Jackson	Michigan	49201	Central	Supplies
+399	CA-2017-108987	United States	Houston	Texas	77036	Central	Storage
+400	CA-2017-108987	United States	Houston	Texas	77036	Central	Bookcases
+401	CA-2017-108987	United States	Houston	Texas	77036	Central	Storage
+402	CA-2017-108987	United States	Houston	Texas	77036	Central	Accessories
+403	CA-2015-113166	United States	Miami	Florida	33180	South	Paper
+404	CA-2015-155208	United States	Wilmington	North Carolina	28403	South	Art
+405	CA-2018-117933	United States	New York City	New York	10024	East	Appliances
+406	CA-2018-117457	United States	San Francisco	California	94110	West	Accessories
+407	CA-2018-117457	United States	San Francisco	California	94110	West	Copiers
+408	CA-2018-117457	United States	San Francisco	California	94110	West	Paper
+409	CA-2018-117457	United States	San Francisco	California	94110	West	Tables
+410	CA-2018-117457	United States	San Francisco	California	94110	West	Paper
+411	CA-2018-117457	United States	San Francisco	California	94110	West	Labels
+412	CA-2018-117457	United States	San Francisco	California	94110	West	Paper
+413	CA-2018-117457	United States	San Francisco	California	94110	West	Bookcases
+414	CA-2018-117457	United States	San Francisco	California	94110	West	Chairs
+415	CA-2018-142636	United States	Seattle	Washington	98105	West	Paper
+416	CA-2018-142636	United States	Seattle	Washington	98105	West	Chairs
+417	CA-2018-122105	United States	Huntington Beach	California	92646	West	Art
+418	CA-2017-148796	United States	Los Angeles	California	90004	West	Chairs
+419	CA-2018-154816	United States	Richmond	Kentucky	40475	South	Paper
+420	CA-2018-110478	United States	Los Angeles	California	90045	West	Art
+421	CA-2018-110478	United States	Los Angeles	California	90045	West	Envelopes
+422	CA-2015-142048	United States	Louisville	Colorado	80027	West	Accessories
+423	CA-2018-125388	United States	Lawrence	Massachusetts	1841	East	Furnishings
+424	CA-2018-125388	United States	Lawrence	Massachusetts	1841	East	Storage
+425	CA-2018-155705	United States	Jackson	Mississippi	39212	South	Chairs
+426	CA-2018-149160	United States	Canton	Michigan	48187	Central	Furnishings
+427	CA-2018-149160	United States	Canton	Michigan	48187	Central	Binders
+428	CA-2015-101476	United States	New Rochelle	New York	10801	East	Machines
+429	CA-2018-152275	United States	San Antonio	Texas	78207	Central	Art
+430	US-2017-123750	United States	Gastonia	North Carolina	28052	South	Binders
+431	US-2017-123750	United States	Gastonia	North Carolina	28052	South	Accessories
+432	US-2017-123750	United States	Gastonia	North Carolina	28052	South	Accessories
+433	US-2017-123750	United States	Gastonia	North Carolina	28052	South	Storage
+434	CA-2017-127369	United States	Lowell	Massachusetts	1852	East	Storage
+435	US-2015-150574	United States	Jacksonville	Florida	32216	South	Binders
+436	US-2015-150574	United States	Jacksonville	Florida	32216	South	Accessories
+437	CA-2017-147375	United States	Chicago	Illinois	60623	Central	Machines
+438	CA-2017-147375	United States	Chicago	Illinois	60623	Central	Paper
+439	CA-2018-130043	United States	Houston	Texas	77070	Central	Paper
+440	CA-2018-157252	United States	New York City	New York	10024	East	Chairs
+441	CA-2017-115756	United States	Detroit	Michigan	48227	Central	Furnishings
+442	CA-2017-115756	United States	Detroit	Michigan	48227	Central	Storage
+443	CA-2017-115756	United States	Detroit	Michigan	48227	Central	Storage
+444	CA-2017-115756	United States	Detroit	Michigan	48227	Central	Paper
+445	CA-2017-115756	United States	Detroit	Michigan	48227	Central	Chairs
+446	CA-2017-115756	United States	Detroit	Michigan	48227	Central	Labels
+447	CA-2018-154214	United States	Columbus	Indiana	47201	Central	Furnishings
+448	CA-2017-166674	United States	Auburn	New York	13021	East	Art
+449	CA-2017-166674	United States	Auburn	New York	13021	East	Storage
+450	CA-2017-166674	United States	Auburn	New York	13021	East	Art
+451	CA-2017-166674	United States	Auburn	New York	13021	East	Art
+452	CA-2017-166674	United States	Auburn	New York	13021	East	Art
+453	CA-2017-166674	United States	Auburn	New York	13021	East	Phones
+454	CA-2018-147277	United States	Akron	Ohio	44312	East	Tables
+455	CA-2018-147277	United States	Akron	Ohio	44312	East	Storage
+456	CA-2017-100153	United States	Norman	Oklahoma	73071	Central	Accessories
+457	US-2015-110674	United States	Concord	California	94521	West	Chairs
+458	US-2017-157945	United States	Decatur	Illinois	62521	Central	Chairs
+459	US-2017-157945	United States	Decatur	Illinois	62521	Central	Envelopes
+460	CA-2016-109638	United States	Seattle	Washington	98115	West	Appliances
+461	CA-2016-109638	United States	Seattle	Washington	98115	West	Accessories
+462	CA-2016-109638	United States	Seattle	Washington	98115	West	Binders
+463	CA-2017-109869	United States	Phoenix	Arizona	85023	West	Furnishings
+464	CA-2017-109869	United States	Phoenix	Arizona	85023	West	Tables
+465	CA-2017-109869	United States	Phoenix	Arizona	85023	West	Binders
+466	CA-2017-109869	United States	Phoenix	Arizona	85023	West	Supplies
+467	CA-2017-109869	United States	Phoenix	Arizona	85023	West	Appliances
+468	US-2016-101399	United States	Park Ridge	Illinois	60068	Central	Furnishings
+469	CA-2018-154907	United States	Amarillo	Texas	79109	Central	Bookcases
+470	US-2017-100419	United States	Chicago	Illinois	60610	Central	Binders
+471	CA-2016-154144	United States	Lindenhurst	New York	11757	East	Paper
+472	CA-2015-144666	United States	San Francisco	California	94110	West	Storage
+473	CA-2015-144666	United States	San Francisco	California	94110	West	Bookcases
+474	CA-2015-144666	United States	San Francisco	California	94110	West	Phones
+475	CA-2015-144666	United States	San Francisco	California	94110	West	Storage
+476	CA-2015-144666	United States	San Francisco	California	94110	West	Paper
+477	CA-2015-144666	United States	San Francisco	California	94110	West	Paper
+478	CA-2017-103891	United States	Los Angeles	California	90008	West	Phones
+479	CA-2017-152632	United States	Troy	New York	12180	East	Furnishings
+480	CA-2017-100790	United States	New York City	New York	10024	East	Art
+481	CA-2017-100790	United States	New York City	New York	10024	East	Storage
+482	CA-2015-134677	United States	San Diego	California	92024	West	Accessories
+483	CA-2015-127691	United States	New York City	New York	10024	East	Art
+484	CA-2015-127691	United States	New York City	New York	10024	East	Accessories
+485	CA-2018-140963	United States	Los Angeles	California	90045	West	Labels
+486	CA-2018-140963	United States	Los Angeles	California	90045	West	Bookcases
+487	CA-2018-140963	United States	Los Angeles	California	90045	West	Phones
+488	CA-2015-154627	United States	Chicago	Illinois	60610	Central	Phones
+489	CA-2015-133753	United States	Huntsville	Texas	77340	Central	Phones
+490	CA-2015-133753	United States	Huntsville	Texas	77340	Central	Accessories
+491	CA-2015-133753	United States	Huntsville	Texas	77340	Central	Art
+492	CA-2015-113362	United States	Rochester	New York	14609	East	Storage
+493	CA-2015-113362	United States	Rochester	New York	14609	East	Envelopes
+494	CA-2017-169166	United States	Seattle	Washington	98115	West	Accessories
+495	US-2017-120929	United States	Memphis	Tennessee	38109	South	Tables
+496	CA-2016-134782	United States	Fayetteville	Arkansas	72701	South	Envelopes
+497	CA-2017-126158	United States	Costa Mesa	California	92627	West	Binders
+498	CA-2017-126158	United States	Costa Mesa	California	92627	West	Furnishings
+499	CA-2017-126158	United States	Costa Mesa	California	92627	West	Chairs
+500	CA-2017-126158	United States	Costa Mesa	California	92627	West	Furnishings
+501	US-2017-105578	United States	Parker	Colorado	80134	West	Binders
+502	US-2017-105578	United States	Parker	Colorado	80134	West	Binders
+503	US-2017-105578	United States	Parker	Colorado	80134	West	Chairs
+504	US-2017-105578	United States	Parker	Colorado	80134	West	Binders
+505	US-2017-105578	United States	Parker	Colorado	80134	West	Paper
+506	CA-2018-134978	United States	New York City	New York	10024	East	Binders
+507	CA-2016-145352	United States	Atlanta	Georgia	30318	South	Art
+508	CA-2016-145352	United States	Atlanta	Georgia	30318	South	Art
+509	CA-2016-145352	United States	Atlanta	Georgia	30318	South	Storage
+510	CA-2016-145352	United States	Atlanta	Georgia	30318	South	Binders
+511	CA-2018-135307	United States	Gladstone	Missouri	64118	Central	Furnishings
+512	CA-2018-135307	United States	Gladstone	Missouri	64118	Central	Accessories
+513	CA-2017-106341	United States	Newark	Ohio	43055	East	Art
+514	CA-2018-163405	United States	Los Angeles	California	90049	West	Art
+515	CA-2018-163405	United States	Los Angeles	California	90049	West	Art
+516	CA-2018-127432	United States	Great Falls	Montana	59405	West	Copiers
+517	CA-2018-127432	United States	Great Falls	Montana	59405	West	Storage
+518	CA-2018-127432	United States	Great Falls	Montana	59405	West	Paper
