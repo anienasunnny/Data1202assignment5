@@ -8,8 +8,7 @@ SELECT * FROM training_dimensions;
 no data cleaning requried 
 
 Combine fact_table and Dimension_table with common id and display it
-```
-sql
+```sql
 CREATE VIEW combined_table AS
 SELECT
     f.*,
@@ -26,4 +25,10 @@ INNER JOIN
     
     
 SELECT * FROM combined_table;
+```
+Find the maximum sales for each City
+```sql
+SELECT City, MAX(Sales) AS Max_Sales
+FROM combined_table
+GROUP BY City;
 ```
